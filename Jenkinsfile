@@ -23,7 +23,7 @@ pipeline {
 			echo 'I run always'
 		} 
 		success {
-			echo 'I run on success'
+			echo 'I run on your success'
 		}
 		failure {
 			echo 'I run when you fail'
